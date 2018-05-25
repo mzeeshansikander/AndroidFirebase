@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment05</string>
+
+    <string-array name="words">
+
+
+        <item>zeeshan</item>
+        <item>sikader</item>
+    </string-array>
+
+
+
+
+
+</resources>
